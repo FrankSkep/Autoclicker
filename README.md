@@ -16,7 +16,7 @@ La aplicación utiliza hilos (threads) para gestionar el autoclicker, permitiend
 - **Tipo de clic**: Elige entre clic izquierdo o derecho.
 - **Activación global**: Usa JNativeHook para detectar eventos a nivel global, incluso si la aplicación está minimizada.
 - **Configuración de teclas**: Configura una tecla o botón del mouse para activar o desactivar el autoclicker.
-- **Interfaz gráfica**: Una ventana fácil de usar para configurar y controlar el autoclicker.
+- **Interfaz gráfica**: Ventana para configurar y controlar el autoclicker facilmente.
 - **Hilos (Threads)**: Utiliza hilos para ejecutar el autoclicker en segundo plano sin afectar la interfaz gráfica.
 
 
