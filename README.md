@@ -27,5 +27,5 @@ La aplicación utiliza hilos (threads) para gestionar el autoclicker, permitiend
    - Biblioteca [JNativeHook](https://github.com/kwhat/jnativehook) (incluida en el proyecto).
 
 2. **Ejecutar**
-   - Descarga el archivo jar en la seccion de releases. [Autoclicker.jar](https://github.com/FrankSkep/Autoclicker/releases/tag/1.0)
-   - Ejecuta con doble click.
+   - Descarga el archivo Autoclicker.jar en la seccion [Releases](https://github.com/FrankSkep/Autoclicker/releases/tag/1.0).
+   - Da doble clic sobre el.
