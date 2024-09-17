@@ -26,7 +26,6 @@ La aplicación utiliza hilos (threads) para gestionar el autoclicker, permitiend
    - Java JDK 17 o superior.
    - Biblioteca [JNativeHook](https://github.com/kwhat/jnativehook) (incluida en el proyecto).
 
-2. **Ejecutar el Proyecto**
-   - Clona el repositorio.
-   - Importa el proyecto en un IDE.
-   - Compila y ejecuta la clase `Autoclicker`.
+2. **Ejecutar**
+   - Descarga el archivo jar en la seccion de releases. [Autoclicker.jar](https://github.com/FrankSkep/Autoclicker/releases/tag/1.0)
+   - Ejecuta con doble click.
